@@ -1,0 +1,10 @@
+#Pas de commit du /target
+target/
+lib/
+#On ignore tout les fichiers / dossiers commencant par un .
+.*
+#Sauf le .settings
+!.settings
+#Ainsi que le gitignore
+!.gitignore
+
