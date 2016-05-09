@@ -1,1 +1,1 @@
-# projet-loto
+# loto-swing
