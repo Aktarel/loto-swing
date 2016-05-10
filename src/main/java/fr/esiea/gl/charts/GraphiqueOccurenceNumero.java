@@ -20,7 +20,8 @@ import fr.esiea.gl.modele.Tirage;
  * Panneau d'affichage d'un camembert qui calcule en pourcentage le nombre de fois qu'un numéro est tombé par rapport au rang .
  * 
  * @author Akta
- *
+ * @version 1.0
+ * @date 14/02/2014
  */
 public class GraphiqueOccurenceNumero extends JPanel {
 	
