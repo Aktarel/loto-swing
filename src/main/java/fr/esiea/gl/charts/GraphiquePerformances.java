@@ -10,7 +10,11 @@ import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
 import org.jfree.data.time.Second;
 import org.jfree.data.time.TimeSeries;
 import org.jfree.data.time.TimeSeriesCollection;
-
+/**
+*  @author Akta
+*  @date 10/05/2016
+*
+**/
 public class GraphiquePerformances extends JPanel {
 
 	/**
