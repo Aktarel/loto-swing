@@ -21,7 +21,7 @@ import fr.esiea.gl.modele.Tirage;
  * 
  * @author Akta
  * @version 1.1
- * @date 14/02/2014
+ * @date 01/05/216 
  */
 public class GraphiqueOccurenceNumero extends JPanel {
 	
